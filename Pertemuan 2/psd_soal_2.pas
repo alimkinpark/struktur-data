@@ -82,7 +82,7 @@ begin
 	inputmatrix;
 	perkalianMatrix;
 	cetakMatrix;
-	writeln();
+	writeln;
 	writeln('Hasil dari Perkalian A dengan B adalah: ');
 	writeln;
 	for i:= 1 to x do
