@@ -22,7 +22,7 @@ begin
 			write('Nilai UAS : ');readln(uas);
 			
 			nilai[i] := 10/100 * tugas + 20/100 * quiz + 30/100 * uts + 40/100 * uas;
-			writeln;
+			writeln();
 		end;
 	
 	writeln('              Data Nilai Mahasiswa                ');

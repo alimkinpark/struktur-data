@@ -11,7 +11,7 @@ begin
 		
         writeln('NPM : 201943501627');
         writeln('Nama : Mohamad Nuralim');
-	writeln();
+	writeln;
 		
         write('Banyak Data : ');readln(n);
 
